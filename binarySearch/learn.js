@@ -1,7 +1,4 @@
 learn.js
-
-//everything here is practiced on jsfiddle to remove the need for html pages
-
 /*
 Input : arr[] = {1, 3, 5, 7, 8, 9}
         x = 5
